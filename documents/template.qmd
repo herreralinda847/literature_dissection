@@ -8,51 +8,78 @@ format:
     toc: true
 bibliography: references.bib
 csl: ecology.csl
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 # Photo documentation
 
 Individually:
 
-1.  Find the document titled "Data Description: Photo Documentation of the North Campus Open Space Restoration Project".
+1.  Find the document titled "Data Description: Photo Documentation of
+    the North Campus Open Space Restoration Project".
 2.  Read about the photo documentation process.
-3.  Find 1-3 photo points relevant to your study using the ArcGIS web map.
+3.  Find 1-3 photo points relevant to your study using the ArcGIS web
+    map.
 
 As a group:
 
-4.  Discuss which photo point to focus on based on its relevance to your study question or context.
+4.  Discuss which photo point to focus on based on its relevance to your
+    study question or context.
 5.  Decide on a photo point.
-6.  Find 2-4 photos at that photo point to represent seasonal changes within a water year.
-7.  In the table below, fill in the information for each photo at the photo point.
+6.  Find 2-4 photos at that photo point to represent seasonal changes
+    within a water year.
+7.  In the table below, fill in the information for each photo at the
+    photo point.
 
 ## Table
 
-| Photo point number | Date of photo    | Season           | Direction of photo | Link to photo    |
-|:-------------------|:-----------------|:-----------------|:-------------------|:-----------------|
-|        19          |   2024-04-19     |    Spring        |        West        | [photo](https://ucsb.app.box.com/s/lkg7278kjby3po56j7w5kvhuvqhjmq8b/file/1648752880276) |
-|        19          |   2024-01-19     |    Winter        |        West        | [photo](https://ucsb.app.box.com/s/lkg7278kjby3po56j7w5kvhuvqhjmq8b/file/1648705693833) |
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
+| Photo point number | Date of photo | Season | Direction of photo | Link to photo |
+|:--------------|:--------------|:--------------|:--------------|:--------------|
+| 19 | 2024-04-19 | Spring | West | [photo](https://ucsb.app.box.com/s/lkg7278kjby3po56j7w5kvhuvqhjmq8b/file/1648752880276) |
+| 19 | 2024-01-19 | Winter | West | [photo](https://ucsb.app.box.com/s/lkg7278kjby3po56j7w5kvhuvqhjmq8b/file/1648705693833) |
+| insert text here | insert text here | insert text here | insert text here | insert text here |
+| insert text here | insert text here | insert text here | insert text here | insert text here |
+| insert text here | insert text here | insert text here | insert text here | insert text here |
+| insert text here | insert text here | insert text here | insert text here | insert text here |
 
 8.  Describe in 5-7 sentences total:
 
-The 2024 water year was selected for examination as it represents recent conditions during a period of rising temperatures, making it directly relevant to our study of the relationship between water temperature and invertebrate abundance. Photo point 19 was chosen because it is located at a site where aquatic invertebrate samples are collected alongside key water quality measurements such as temperature, salinity, and dissolved oxygen. Examining this photo point allows for a visual connection between environmental conditions and the biological data analyzed in this study. In winter, the water at photo point 19 is visibly at its highest level and appears blue and clear, suggesting cooler, well-oxygenated conditions. By spring, the water becomes browner and more turbid, while green vegetation emerges along the banks and wildlife such as ducks are visible in the slough. These seasonal changes in water clarity, vegetation, and animal presence reflect the dynamic environmental shifts that likely drive the patterns in invertebrate abundance observed across seasons in our analysis
+The 2024 water year was selected for examination as it represents recent
+conditions during a period of rising temperatures, making it directly
+relevant to our study of the relationship between water temperature and
+invertebrate abundance. Photo point 19 was chosen because it is located
+at a site where aquatic invertebrate samples are collected alongside key
+water quality measurements such as temperature, salinity, and dissolved
+oxygen. Examining this photo point allows for a visual connection
+between environmental conditions and the biological data analyzed in
+this study. In winter, the water at photo point 19 is visibly at its
+highest level and appears blue and clear, suggesting cooler,
+well-oxygenated conditions. By spring, the water becomes browner and
+more turbid, while green vegetation emerges along the banks and wildlife
+such as ducks are visible in the slough. These seasonal changes in water
+clarity, vegetation, and animal presence reflect the dynamic
+environmental shifts that likely drive the patterns in invertebrate
+abundance observed across seasons in our analysis
 
 # Reports or posters
 
 Individually:
 
-1.  Navigate to a. the Posters section or b. the Reports section of the collection.
+1.  Navigate to a. the Posters section or b. the Reports section of the
+    collection.
 2.  Find the poster(s) or report(s) related to your project.
 
 As a group:
 
-3.  Discuss which poster or report to focus on based on its relevance to your study question or context. **Note that you only need one of either type.**
+3.  Discuss which poster or report to focus on based on its relevance to
+    your study question or context. **Note that you only need one of
+    either type.**
 4.  Read the poster or report.
 5.  Discuss the key insights.
-6.  Provide the information in the space below. For "Key insights" and "Relevance to your study", respond in 3-5 sentences.
+6.  Provide the information in the space below. For "Key insights" and
+    "Relevance to your study", respond in 3-5 sentences.
 
 ## Report or poster information
 
@@ -68,83 +95,159 @@ Dataset used (likely):
 
 Key insights:
 
-Relevance to your study (be specific here with the question you have asked, the figures you've made, the insights you've gained, etc.):
+Relevance to your study (be specific here with the question you have
+asked, the figures you've made, the insights you've gained, etc.):
 
 # Annotated bibliography
 
 ## Background
 
-You can find peer-reviewed articles by searching on Google Scholar, which is a large database of research papers, posters, and other materials.
+You can find peer-reviewed articles by searching on Google Scholar,
+which is a large database of research papers, posters, and other
+materials.
 
-Note: while it may be tempting to use AI to provide a list of papers for you, you should _not_ be using AI for any component of this activity. You'll accomplish the objective of articulating the connection between your study and other study systems/questions by completing the difficult task of sifting through papers that may not be relevant to you before finding one that is.
+Note: while it may be tempting to use AI to provide a list of papers for
+you, you should *not* be using AI for any component of this activity.
+You'll accomplish the objective of articulating the connection between
+your study and other study systems/questions by completing the difficult
+task of sifting through papers that may not be relevant to you before
+finding one that is.
 
-Additionally, you can test out inserting citations in Quarto. See [this resource to insert a citation in a .qmd](https://envs-193dd.github.io/resources/adding-citations.html).
+Additionally, you can test out inserting citations in Quarto. See [this
+resource to insert a citation in a
+.qmd](https://envs-193dd.github.io/resources/adding-citations.html).
 
 ## Directions
 
 Individually:
 
-1. Search Google Scholar for papers that might be relevant to your study. One recommendation for how to start: search for whatever your focal variables may be + "wetland restoration" (for example, "bird abundance wetland restoration", "water salinity wetland restoration", "aquatic invertebrate wetland restoration").
-2. Find 4-5 papers that might be relevant based on title and what shows up in the search.
-3. Read the abstracts of those 4-5 papers.
-4. Decide which - if any - are actually relevant to your project. Make a note of these papers.
-   Note that a paper may be relevant in that it shares a) taxonomic groups, b) geographic regions, c) research questions, d) research methodology - there are lots of ways that existing research can be tied into your project.
-5. If step 4 did not yield any relevant papers, repeat steps 2-4.
-6. Search for papers until you have 4 relevant papers per person (12 total for a 3 person group).
+1.  Search Google Scholar for papers that might be relevant to your
+    study. One recommendation for how to start: search for whatever your
+    focal variables may be + "wetland restoration" (for example, "bird
+    abundance wetland restoration", "water salinity wetland
+    restoration", "aquatic invertebrate wetland restoration").
+2.  Find 4-5 papers that might be relevant based on title and what shows
+    up in the search.
+3.  Read the abstracts of those 4-5 papers.
+4.  Decide which - if any - are actually relevant to your project. Make
+    a note of these papers. Note that a paper may be relevant in that it
+    shares a) taxonomic groups, b) geographic regions, c) research
+    questions, d) research methodology - there are lots of ways that
+    existing research can be tied into your project.
+5.  If step 4 did not yield any relevant papers, repeat steps 2-4.
+6.  Search for papers until you have 4 relevant papers per person (12
+    total for a 3 person group).
 
 As a group:
 
-7. Share the papers you found, discussing the main points of the paper and how they are relevant to your project.
-8. Fill in the template for an annotated bibliography below.
-9. In the "Main findings" or "Relevance to study" sections, insert a citation for the paper.
+7.  Share the papers you found, discussing the main points of the paper
+    and how they are relevant to your project.
+8.  Fill in the template for an annotated bibliography below.
+9.  In the "Main findings" or "Relevance to study" sections, insert a
+    citation for the paper.
 
 ### Paper 1 (Linda)
 
-Title: The Impact of Hydrological Restoration on Benthic Aquatic Invertebrate Communities in a New Zealand Wetland
+Title: The Impact of Hydrological Restoration on Benthic Aquatic
+Invertebrate Communities in a New Zealand Wetland
 
 Authors: Alastair M. Suren, Paul Lambert, and Brian K. Sorrell
 
-Main findings (2-4 sentences): 
-Drainage disturbs wetlands by lowering water tables and changing habitats from still to running water states, which affects invertebrate communities. This study found that blocking drains, as opposed to filling them in, was successful in restoring water levels and returning invertebrate communities to a more natural state. The restoration supported the "field of dreams" hypothesis, where species recolonized with minimal post-restoration intervention. This project met its conservation objective at two independent trophic levels.
+Main findings (2-4 sentences): Drainage disturbs wetlands by lowering
+water tables and changing habitats from still to running water states,
+which affects invertebrate communities. This study found that blocking
+drains, as opposed to filling them in, was successful in restoring water
+levels and returning invertebrate communities to a more natural state.
+The restoration supported the "field of dreams" hypothesis, where
+species recolonized with minimal post-restoration intervention. This
+project met its conservation objective at two independent trophic
+levels. [@suren2010a]
 
-Relevance to study (2-4 sentences): 
-Like this study, our project examines invertebrate communities in wetland restoration sites (NCOS and COPR), specifically focusing on copepods, cladocerans, and ostracods. While this paper focuses on the effect of drainage and restoration on invertebrate community composition, it is relevant because changes in water levels from drainage likely also affect water temperature, which is our focal variable. Both studies share a focus on how hydrological disturbance influences invertebrate abundance and community structure. This paper provides useful background on how invertebrate communities respond to restoration conditions, which gives context for interpreting patterns in our own data.
+Relevance to study (2-4 sentences): Like this study, our project
+examines invertebrate communities in wetland restoration sites (NCOS and
+COPR), specifically focusing on copepods, cladocerans, and ostracods.
+While this paper focuses on the effect of drainage and restoration on
+invertebrate community composition, it is relevant because changes in
+water levels from drainage likely also affect water temperature, which
+is our focal variable. Both studies share a focus on how hydrological
+disturbance influences invertebrate abundance and community structure.
+This paper provides useful background on how invertebrate communities
+respond to restoration conditions, which gives context for interpreting
+patterns in our own data.
 
 ### Paper 2 (Linda)
 
-Title: A Model for Aquatic Invertebrate Response to Kissimmee River Restoration
+Title: A Model for Aquatic Invertebrate Response to Kissimmee River
+Restoration
 
 Authors: Steven C. Harris, Thomas H. Martin, and Kenneth W. Cummins
 
-Main findings (2-4 sentences): 
-When the Kissimmee River was channelized, it disconnected from its floodplain and invertebrate communities shifted from flowing-water species to still-water species. Restoring the river-floodplain connection was expected to reverse this shift and increase invertebrate diversity and abundance. Water quality factors like temperature, dissolved oxygen, and nutrients were identified as key drivers of invertebrate recovery.
+Main findings (2-4 sentences): When the Kissimmee River was channelized,
+it disconnected from its floodplain and invertebrate communities shifted
+from flowing-water species to still-water species. Restoring the
+river-floodplain connection was expected to reverse this shift and
+increase invertebrate diversity and abundance. Water quality factors
+like temperature, dissolved oxygen, and nutrients were identified as key
+drivers of invertebrate recovery. [@harris1995a]
 
-Relevance to study (2-4 sentences): 
-This paper is relevant because it examines how water quality conditions, including temperature, affect aquatic invertebrate abundance in a restoration setting. This directly relates to our research question about the relationship between water temperature and invertebrate abundance at NCOS.
+Relevance to study (2-4 sentences): This paper is relevant because it
+examines how water quality conditions, including temperature, affect
+aquatic invertebrate abundance in a restoration setting. This directly
+relates to our research question about the relationship between water
+temperature and invertebrate abundance at NCOS.
 
 ### Paper 3 (Linda)
 
-Title: Response of Aquatic Invertebrates to Ecological Rehabilitation of Southeastern USA Depressional Wetlands
+Title: Response of Aquatic Invertebrates to Ecological Rehabilitation of
+Southeastern USA Depressional Wetlands
 
-Authors: Darold P. Batzer, Barbara E. Taylor, Adrienne E. DeBiase, Susan E. Brantley and Richard Schultheis 
+Authors: Darold P. Batzer, Barbara E. Taylor, Adrienne E. DeBiase, Susan
+E. Brantley and Richard Schultheis
 
-Main findings (2-4 sentences): 
-This study examined aquatic invertebrate responses in 20 depression wetlands that had been ditched for 50+ years, where most wetlands received rehabilitation treatment including ditch plugging, logging, and replanting. Rehabilitation generally led to more diverse and abundant invertebrate communities, though responses varied depending on soil type, rainfall, and hydrology. Microcrustaceans like copepods and cladocerans responded mainly to hydrological conditions, while macroinvertebrates were influenced by both hydrology and plant changes. Overall the rehabilitation was considered successful, but no single metric was enough to measure success on its own.
+Main findings (2-4 sentences): This study examined aquatic invertebrate
+responses in 20 depression wetlands that had been ditched for 50+ years,
+where most wetlands received rehabilitation treatment including ditch
+plugging, logging, and replanting. Rehabilitation generally led to more
+diverse and abundant invertebrate communities, though responses varied
+depending on soil type, rainfall, and hydrology. Microcrustaceans like
+copepods and cladocerans responded mainly to hydrological conditions,
+while macroinvertebrates were influenced by both hydrology and plant
+changes. Overall the rehabilitation was considered successful, but no
+single metric was enough to measure success on its own. [@batzer2015]
 
-Relevance to study (2-4 sentences): 
-This paper is relevant because it specifically studies copepods and cladocerans— the same groups we monitor at NCOS and that my group is looking into. It shows that microcrustacean abundance is strongly tied to hydro-conditions, which influence water temperature, connecting directly to our research question. Both studies also use similar sampling approaches across multiple sites and time points.
+Relevance to study (2-4 sentences): This paper is relevant because it
+specifically studies copepods and cladocerans— the same groups we
+monitor at NCOS and that my group is looking into. It shows that
+microcrustacean abundance is strongly tied to hydro-conditions, which
+influence water temperature, connecting directly to our research
+question. Both studies also use similar sampling approaches across
+multiple sites and time points.
 
 ### Paper 4 (Linda)
 
-Title: Evaluating Wetland Restoration Success Using Aquatic Macroinvertebrate Assemblages in the Sacramento Valley, California
+Title: Evaluating Wetland Restoration Success Using Aquatic
+Macroinvertebrate Assemblages in the Sacramento Valley, California
 
 Authors: Michael P. Marchetti, Mariah Garr, and Adam N. H. Smith
 
-Main findings (2-4 sentences): 
-This study examined macroinvertebrate communities across restored wetlands of different ages in the Sacramento Valley, California, comparing them to a natural wetland. Results showed that abundance, richness, and diversity increased with wetland age, with the three oldest restored wetlands having similar communities to each other. Ostracoda were among the five most numerically dominant taxa across all wetlands, making up over 20% of all samples. Overall, macroinvertebrates showed potential as indicators of restoration success, though community composition was not fully predictable over time.
+Main findings (2-4 sentences): This study examined macroinvertebrate
+communities across restored wetlands of different ages in the Sacramento
+Valley, California, comparing them to a natural wetland. Results showed
+that abundance, richness, and diversity increased with wetland age, with
+the three oldest restored wetlands having similar communities to each
+other. Ostracoda were among the five most numerically dominant taxa
+across all wetlands, making up over 20% of all samples. Overall,
+macroinvertebrates showed potential as indicators of restoration
+success, though community composition was not fully predictable over
+time. [@marchetti2008]
 
-Relevance to study (2-4 sentences): 
-This paper is highly relevant because it is California-based, matching the geographic region of our NCOS study sites. Ostracoda— one of the taxa we specifically monitor were the most abundant group found across all wetlands in this study. It also directly examines how environmental conditions in restored wetlands influence invertebrate abundance over time, which connects to our research question about water temperature and invertebrate abundance.
+Relevance to study (2-4 sentences): This paper is highly relevant
+because it is California-based, matching the geographic region of our
+NCOS study sites. Ostracoda— one of the taxa we specifically monitor
+were the most abundant group found across all wetlands in this study. It
+also directly examines how environmental conditions in restored wetlands
+influence invertebrate abundance over time, which connects to our
+research question about water temperature and invertebrate abundance.
 
 ### Paper 5
 
@@ -217,4 +320,3 @@ Main findings (2-4 sentences):
 Relevance to study (2-4 sentences):
 
 # References
-
