@@ -104,9 +104,11 @@ Title: The Impact of Hydrological Restoration on Benthic Aquatic Invertebrate Co
 
 Authors: Alastair M. Suren, Paul Lambert, and Brian K. Sorrell
 
-Main findings (2-4 sentences): Drainage disturbs wetlands by lowering water tables and changing habitats from still to running water states, which affects invertebrate communities. This study found that blocking drains, as opposed to filling them in, was successful in restoring water levels and returning invertebrate communities to a more natural state. The restoration supported the "field of dreams" hypothesis, where species recolonized with minimal post-restoration intervention. This project met its conservation objective at two independent trophic levels.
+Main findings (2-4 sentences): 
+Drainage disturbs wetlands by lowering water tables and changing habitats from still to running water states, which affects invertebrate communities. This study found that blocking drains, as opposed to filling them in, was successful in restoring water levels and returning invertebrate communities to a more natural state. The restoration supported the "field of dreams" hypothesis, where species recolonized with minimal post-restoration intervention. This project met its conservation objective at two independent trophic levels.
 
-Relevance to study (2-4 sentences): Like this study, our project examines invertebrate communities in wetland restoration sites (NCOS and COPR), specifically focusing on copepods, cladocerans, and ostracods. While this paper focuses on the effect of drainage and restoration on invertebrate community composition, it is relevant because changes in water levels from drainage likely also affect water temperature, which is our focal variable. Both studies share a focus on how hydrological disturbance influences invertebrate abundance and community structure. This paper provides useful background on how invertebrate communities respond to restoration conditions, which gives context for interpreting patterns in our own data.
+Relevance to study (2-4 sentences): 
+Like this study, our project examines invertebrate communities in wetland restoration sites (NCOS and COPR), specifically focusing on copepods, cladocerans, and ostracods. While this paper focuses on the effect of drainage and restoration on invertebrate community composition, it is relevant because changes in water levels from drainage likely also affect water temperature, which is our focal variable. Both studies share a focus on how hydrological disturbance influences invertebrate abundance and community structure. This paper provides useful background on how invertebrate communities respond to restoration conditions, which gives context for interpreting patterns in our own data.
 
 ### Paper 2 (Linda)
 
@@ -114,9 +116,11 @@ Title: A Model for Aquatic Invertebrate Response to Kissimmee River Restoration
 
 Authors: Steven C. Harris, Thomas H. Martin, and Kenneth W. Cummins
 
-Main findings (2-4 sentences): When the Kissimmee River was channelized, it disconnected from its floodplain and invertebrate communities shifted from flowing-water species to still-water species. Restoring the river-floodplain connection was expected to reverse this shift and increase invertebrate diversity and abundance. Water quality factors like temperature, dissolved oxygen, and nutrients were identified as key drivers of invertebrate recovery.
+Main findings (2-4 sentences): 
+When the Kissimmee River was channelized, it disconnected from its floodplain and invertebrate communities shifted from flowing-water species to still-water species. Restoring the river-floodplain connection was expected to reverse this shift and increase invertebrate diversity and abundance. Water quality factors like temperature, dissolved oxygen, and nutrients were identified as key drivers of invertebrate recovery.
 
-Relevance to study (2-4 sentences): This paper is relevant because it examines how water quality conditions, including temperature, affect aquatic invertebrate abundance in a restoration setting. This directly relates to our research question about the relationship between water temperature and invertebrate abundance at NCOS.
+Relevance to study (2-4 sentences): 
+This paper is relevant because it examines how water quality conditions, including temperature, affect aquatic invertebrate abundance in a restoration setting. This directly relates to our research question about the relationship between water temperature and invertebrate abundance at NCOS.
 
 ### Paper 3 (Linda)
 
@@ -124,19 +128,23 @@ Title: Response of Aquatic Invertebrates to Ecological Rehabilitation of Southea
 
 Authors: Darold P. Batzer, Barbara E. Taylor, Adrienne E. DeBiase, Susan E. Brantley and Richard Schultheis 
 
-Main findings (2-4 sentences): This study examined aquatic invertebrate responses in 20 depression wetlands that had been ditched for 50+ years, where most wetlands received rehabilitation treatment including ditch plugging, logging, and replanting. Rehabilitation generally led to more diverse and abundant invertebrate communities, though responses varied depending on soil type, rainfall, and hydrology. Microcrustaceans like copepods and cladocerans responded mainly to hydrological conditions, while macroinvertebrates were influenced by both hydrology and plant changes. Overall the rehabilitation was considered successful, but no single metric was enough to measure success on its own.
+Main findings (2-4 sentences): 
+This study examined aquatic invertebrate responses in 20 depression wetlands that had been ditched for 50+ years, where most wetlands received rehabilitation treatment including ditch plugging, logging, and replanting. Rehabilitation generally led to more diverse and abundant invertebrate communities, though responses varied depending on soil type, rainfall, and hydrology. Microcrustaceans like copepods and cladocerans responded mainly to hydrological conditions, while macroinvertebrates were influenced by both hydrology and plant changes. Overall the rehabilitation was considered successful, but no single metric was enough to measure success on its own.
 
-Relevance to study (2-4 sentences): This paper is relevant because it specifically studies copepods and cladocerans— the same groups we monitor at NCOS and that my group is looking into. It shows that microcrustacean abundance is strongly tied to hydro-conditions, which influence water temperature, connecting directly to our research question. Both studies also use similar sampling approaches across multiple sites and time points.
+Relevance to study (2-4 sentences): 
+This paper is relevant because it specifically studies copepods and cladocerans— the same groups we monitor at NCOS and that my group is looking into. It shows that microcrustacean abundance is strongly tied to hydro-conditions, which influence water temperature, connecting directly to our research question. Both studies also use similar sampling approaches across multiple sites and time points.
 
 ### Paper 4 (Linda)
 
-Title: Aquatic invertebrate assemblages as potential indicators of restoration conditions in wetlands of Northeastern China
+Title: Evaluating Wetland Restoration Success Using Aquatic Macroinvertebrate Assemblages in the Sacramento Valley, California
 
-Authors: Kangle Lu, Haitao Wu, Qiang Guan, and Xianguo Lu
+Authors: Michael P. Marchetti, Mariah Garr, and Adam N. H. Smith
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): 
+This study examined macroinvertebrate communities across restored wetlands of different ages in the Sacramento Valley, California, comparing them to a natural wetland. Results showed that abundance, richness, and diversity increased with wetland age, with the three oldest restored wetlands having similar communities to each other. Ostracoda were among the five most numerically dominant taxa across all wetlands, making up over 20% of all samples. Overall, macroinvertebrates showed potential as indicators of restoration success, though community composition was not fully predictable over time.
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): 
+This paper is highly relevant because it is California-based, matching the geographic region of our NCOS study sites. Ostracoda— one of the taxa we specifically monitor were the most abundant group found across all wetlands in this study. It also directly examines how environmental conditions in restored wetlands influence invertebrate abundance over time, which connects to our research question about water temperature and invertebrate abundance.
 
 ### Paper 5
 
