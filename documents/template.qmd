@@ -100,9 +100,9 @@ As a group:
 
 ### Paper 1 (Linda)
 
-Title:
+Title: The Impact of Hydrological Restoration on Benthic Aquatic Invertebrate Communities in a New Zealand Wetland
 
-Authors:
+Authors: Alastair M. Suren, Paul Lambert, and Brian K. Sorrell
 
 Main findings (2-4 sentences):
 
@@ -110,9 +110,9 @@ Relevance to study (2-4 sentences):
 
 ### Paper 2 (Linda)
 
-Title:
+Title: A Model for Aquatic Invertebrate Response to Kissimmee River Restoration
 
-Authors:
+Authors: Steven C. Harris, Thomas H. Martin, and Kenneth W. Cummins
 
 Main findings (2-4 sentences):
 
@@ -120,9 +120,9 @@ Relevance to study (2-4 sentences):
 
 ### Paper 3 (Linda)
 
-Title:
+Title: Response of Aquatic Invertebrates to Ecological Rehabilitation of Southeastern USA Depressional Wetlands
 
-Authors:
+Authors: Darold P. Batzer, Barbara E. Taylor, Adrienne E. DeBiase, Susan E. Brantley and Richard Schultheis 
 
 Main findings (2-4 sentences):
 
@@ -130,9 +130,9 @@ Relevance to study (2-4 sentences):
 
 ### Paper 4 (Linda)
 
-Title:
+Title: Aquatic invertebrate assemblages as potential indicators of restoration conditions in wetlands of Northeastern China
 
-Authors:
+Authors: Kangle Lu, Haitao Wu, Qiang Guan, and Xianguo Lu
 
 Main findings (2-4 sentences):
 
