@@ -104,9 +104,9 @@ Title: The Impact of Hydrological Restoration on Benthic Aquatic Invertebrate Co
 
 Authors: Alastair M. Suren, Paul Lambert, and Brian K. Sorrell
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): Drainage disturbs wetlands by lowering water tables and changing habitats from still to running water states, which affects invertebrate communities. This study found that blocking drains, as opposed to filling them in, was successful in restoring water levels and returning invertebrate communities to a more natural state. The restoration supported the "field of dreams" hypothesis, where species recolonized with minimal post-restoration intervention. This project met its conservation objective at two independent trophic levels.
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): Like this study, our project examines invertebrate communities in wetland restoration sites (NCOS and COPR), specifically focusing on copepods, cladocerans, and ostracods. While this paper focuses on the effect of drainage and restoration on invertebrate community composition, it is relevant because changes in water levels from drainage likely also affect water temperature, which is our focal variable. Both studies share a focus on how hydrological disturbance influences invertebrate abundance and community structure. This paper provides useful background on how invertebrate communities respond to restoration conditions, which gives context for interpreting patterns in our own data.
 
 ### Paper 2 (Linda)
 
