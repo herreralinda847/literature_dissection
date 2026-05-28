@@ -1,8 +1,8 @@
 ---
 title: "Literature dissection"
 subtitle: "Spring 2026"
-author: "insert author names here"
-date: "insert date here"
+author: "Linda Herrera, Natalie Chen, June McNally"
+date: "2026-05-27"
 format: 
   pdf:
     toc: true
@@ -29,8 +29,8 @@ As a group:
 
 | Photo point number | Date of photo    | Season           | Direction of photo | Link to photo    |
 |:-------------------|:-----------------|:-----------------|:-------------------|:-----------------|
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
+|        19          |   2024-04-19     |    Spring        |        West        | [photo](https://ucsb.app.box.com/s/lkg7278kjby3po56j7w5kvhuvqhjmq8b/file/1648752880276) |
+|        19          |   2024-01-19     |    Winter        |        West        | [photo](https://ucsb.app.box.com/s/lkg7278kjby3po56j7w5kvhuvqhjmq8b/file/1648705693833) |
 | insert text here   | insert text here | insert text here | insert text here   | insert text here |
 | insert text here   | insert text here | insert text here | insert text here   | insert text here |
 | insert text here   | insert text here | insert text here | insert text here   | insert text here |
@@ -38,11 +38,7 @@ As a group:
 
 8.  Describe in 5-7 sentences total:
 
--   which water year you chose to examine
--   how that water year is relevant to your study
--   which photo point you chose to examine
--   how that photo point is relevant to your study
--   what changes you see in vegetation, animals, environmental characteristics from the photos you chose.
+The 2024 water year was selected for examination as it represents recent conditions during a period of rising temperatures, making it directly relevant to our study of the relationship between water temperature and invertebrate abundance. Photo point 19 was chosen because it is located at a site where aquatic invertebrate samples are collected alongside key water quality measurements such as temperature, salinity, and dissolved oxygen. Examining this photo point allows for a visual connection between environmental conditions and the biological data analyzed in this study. In winter, the water at photo point 19 is visibly at its highest level and appears blue and clear, suggesting cooler, well-oxygenated conditions. By spring, the water becomes browner and more turbid, while green vegetation emerges along the banks and wildlife such as ducks are visible in the slough. These seasonal changes in water clarity, vegetation, and animal presence reflect the dynamic environmental shifts that likely drive the patterns in invertebrate abundance observed across seasons in our analysis
 
 # Reports or posters
 
@@ -102,7 +98,7 @@ As a group:
 8. Fill in the template for an annotated bibliography below.
 9. In the "Main findings" or "Relevance to study" sections, insert a citation for the paper.
 
-### Paper 1
+### Paper 1 (Linda)
 
 Title:
 
@@ -112,7 +108,7 @@ Main findings (2-4 sentences):
 
 Relevance to study (2-4 sentences):
 
-### Paper 2
+### Paper 2 (Linda)
 
 Title:
 
@@ -122,7 +118,7 @@ Main findings (2-4 sentences):
 
 Relevance to study (2-4 sentences):
 
-### Paper 3
+### Paper 3 (Linda)
 
 Title:
 
@@ -132,7 +128,7 @@ Main findings (2-4 sentences):
 
 Relevance to study (2-4 sentences):
 
-### Paper 4
+### Paper 4 (Linda)
 
 Title:
 
