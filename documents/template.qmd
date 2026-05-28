@@ -124,9 +124,9 @@ Title: Response of Aquatic Invertebrates to Ecological Rehabilitation of Southea
 
 Authors: Darold P. Batzer, Barbara E. Taylor, Adrienne E. DeBiase, Susan E. Brantley and Richard Schultheis 
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): This study examined aquatic invertebrate responses in 20 depression wetlands that had been ditched for 50+ years, where most wetlands received rehabilitation treatment including ditch plugging, logging, and replanting. Rehabilitation generally led to more diverse and abundant invertebrate communities, though responses varied depending on soil type, rainfall, and hydrology. Microcrustaceans like copepods and cladocerans responded mainly to hydrological conditions, while macroinvertebrates were influenced by both hydrology and plant changes. Overall the rehabilitation was considered successful, but no single metric was enough to measure success on its own.
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): This paper is relevant because it specifically studies copepods and cladocerans— the same groups we monitor at NCOS and that my group is looking into. It shows that microcrustacean abundance is strongly tied to hydro-conditions, which influence water temperature, connecting directly to our research question. Both studies also use similar sampling approaches across multiple sites and time points.
 
 ### Paper 4 (Linda)
 
