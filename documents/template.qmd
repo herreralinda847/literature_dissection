@@ -114,9 +114,9 @@ Title: A Model for Aquatic Invertebrate Response to Kissimmee River Restoration
 
 Authors: Steven C. Harris, Thomas H. Martin, and Kenneth W. Cummins
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): When the Kissimmee River was channelized, it disconnected from its floodplain and invertebrate communities shifted from flowing-water species to still-water species. Restoring the river-floodplain connection was expected to reverse this shift and increase invertebrate diversity and abundance. Water quality factors like temperature, dissolved oxygen, and nutrients were identified as key drivers of invertebrate recovery.
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): This paper is relevant because it examines how water quality conditions, including temperature, affect aquatic invertebrate abundance in a restoration setting. This directly relates to our research question about the relationship between water temperature and invertebrate abundance at NCOS.
 
 ### Paper 3 (Linda)
 
